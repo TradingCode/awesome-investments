@@ -7,3 +7,4 @@
 * [LCI e LCA](/lci-lca/)
 * [Poupança](/poupanca/)
 * [Títulos Públicos](/titulos-publicos/)
+* [Reconhecimentos](/acknowledgement.md)
